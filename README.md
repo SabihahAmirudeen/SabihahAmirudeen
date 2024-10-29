@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 🎓 Undergraduate Cybersecurity Major @ SiT <br>
 🛡️ Passionate about Digital Forensics, AI in Cybersecurity, and Mobile Security! <br>
-🔭 Exploring Andriod Studio and Flutter, Dart
+🔭 Exploring Andriod Studio and Flutter, Dart <br>
+👯 WORK HARD,PLAY HARD KIDSS
 
 ## 📫 Let's Connect!
 - https://www.linkedin.com/in/sabihah-amirudeen 
