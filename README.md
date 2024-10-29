@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm Sabihah Amirudeen!
+
+🎓 Undergraduate Cybersecurity Major @ SiT <br>
+🛡️ Passionate about Digital Forensics, AI in Cybersecurity, and Mobile Security! <br>
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/sabihah-amirudeen/) 
