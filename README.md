@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Sabihah!
 
-<img src="[https://example.com/banner.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kevinwanke.com%2Fcats-code-and-being-a-better-developer%2F&psig=AOvVaw2xL-SguBDu8gESQImsmoL_&ust=1730263543714000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOj0o5LksokDFQAAAAAdAAAAABAU)" alt="Profile Banner" width="800"/>
+<img src="img/cat.png" alt="Profile Banner" width="800"/>
 
 🎓 Undergraduate Cybersecurity Major @ SiT <br>
 🛡️ Passionate about Digital Forensics, AI in Cybersecurity, and Mobile Security! <br>
