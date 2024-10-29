@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Sabihah!
 
-<img src="img/cat.png" alt="Profile Banner" width="800"/>
+<img src="cat.png" alt="Profile Banner" width="800"/>
 
 🎓 Undergraduate Cybersecurity Major @ SiT <br>
 🛡️ Passionate about Digital Forensics, AI in Cybersecurity, and Mobile Security! <br>
+🔭 Exploring Andriod Studio and Flutter, Dart
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/sabihah-amirudeen/) 
+- https://www.linkedin.com/in/sabihah-amirudeen 
